@@ -7,6 +7,7 @@ Interesting tools to consider when building new apps
 - [landascape](https://landscape.io/): PEP8 and other code quality checks.
 - [waffle](https://waffle.io): Project management.
 - [codeship](https://codeship.com): Continuous deployment.
+- [QuantifiedCode](https://www.quantifiedcode.com): Automated code review & repair
 
 ## Testing utils
 - [ddt](https://pypi.python.org/pypi/ddt): Data driven testing
